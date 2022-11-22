@@ -13,7 +13,7 @@ seriously. Thank you for improving the security of our open source
 software. We appreciate your efforts and responsible disclosure and will
 make every effort to acknowledge your contributions.
 
-Report security vulnerabilities by emailing the Atomist security team at:
+Report security vulnerabilities by emailing the OpenFABR security team at:
     
     open@fabrhq.com
 
@@ -25,6 +25,12 @@ full announcement, and may ask for additional information or guidance.
 
 Report security vulnerabilities in third-party modules to the person or 
 team maintaining the module.
+
+For general security related concerns and issues, report them on GitHub within an existing issue request by tagging the OpenFABR security team at:
+
+    @openfabr/security
+
+The lead maintainer will follow the same process set out above to manage the reported issue.
 
 ## Disclosure Policy
 
