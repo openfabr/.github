@@ -1,8 +1,8 @@
 ## Description
 
-Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change.
+Please include a summary of the change, e.g. what the new feature # is and/or what bug # it fixes. Please also include relevant motivation and context. List any dependencies that are required for this change.
 
-Fixes #(issue)
+Fixes/Implements #(issue/feature)
 
 ## Type of change
 
